@@ -14,3 +14,9 @@ like its title, scripts, and style sheets.
  whether that's text, images, videos, games, playable audio tracks, or whatever else.
      
 <img src="source of the img" alt="displays the text when image is broken(text should be about image i.e. action,thing etc)"> - it is a self closing tag.
+
+<!-- 4 heading levels: -->
+<h1>My main title</h1>
+<h2>My top level heading</h2>
+<h3>My subheading</h3>
+<h4>My sub-subheading</h4>
