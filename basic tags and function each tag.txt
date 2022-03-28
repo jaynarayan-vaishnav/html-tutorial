@@ -24,3 +24,13 @@ Note: You'll see that your heading level 1 has an implicit style. Don't use head
 Try to create a meaningful sequence of headings on your pages, without skipping levels.
 
 <p> </p> - elements are for containing paragraphs of text; you'll use these frequently when marking up regular text content
+
+list - there are two types of lists 
+ordered(represents data by number)<ol>
+unordered(represents in bullet point form)<ul>
+both these lists use <li> </li> tag to specify the content to be placed in the list.
+for e.g:- <ol>
+            <li> </li>
+            <li> </li>
+          </ol>
+          same example can be used for <uL> </ul>
