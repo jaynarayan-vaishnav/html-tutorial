@@ -13,4 +13,4 @@ like its title, scripts, and style sheets.
 <body></body> — the <body> element. This contains all the content that you want to show to web users when they visit your page,
  whether that's text, images, videos, games, playable audio tracks, or whatever else.
      
-<img src="source of the img" alt="displays the text when image is broken"> - it is a self closing tag.
+<img src="source of the img" alt="displays the text when image is broken(text should be about image i.e. action,thing etc)"> - it is a self closing tag.
