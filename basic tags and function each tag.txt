@@ -34,3 +34,11 @@ for e.g:- <ol>
             <li> </li>
           </ol>
           same example can be used for <uL> </ul>
+
+Links
+Links are very important — they are what makes the web a web! To add a link, we need to use a simple element — <a> — "a" being the short form for "anchor". To make text within your paragraph into a link.
+<a href="post the link location/link in href attribute">html(here html will turn into a link and go to the address used in href attribute)</a>
+You might get unexpected results if you omit the https:// or http:// part, called the protocol, at the beginning of the web address. After making a link, click it to make sure it is sending you where you wanted it to.
+there are two types of links relative and absolute
+relative - it is used to locate of in the project 
+absolute - can be used as relative as well as when we want a link from outside of our project 
