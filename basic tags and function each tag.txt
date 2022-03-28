@@ -7,5 +7,8 @@ It is a container for all other elements of HTML except <!DOCTYPE>
 <head> </head>:- The <head> HTML element contains machine-readable information (metadata) about the document,
 like its title, scripts, and style sheets. 
 
+<meta charset="utf-8"> — This element sets the character set your document should use to UTF-8 which includes most characters from the vast majority of written languages. Essentially, it can now handle any textual content you might put on it.
+ There is no reason not to set this and it can help avoid some problems later on.
+
 <body> </body> :-
      
