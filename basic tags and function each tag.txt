@@ -1,11 +1,11 @@
 (<!-- -->)inside the bracket is a comment tag used to write comments wherever necessary 
-> <!DOCTYPE html> declaration is an instruction to the web browser about what version of HTML the page is written in (for e.g what version of html is)<  
+ <!DOCTYPE html> declaration is an instruction to the web browser about what version of HTML the page is written in (for e.g what version of html is)  
 
-<html> This tag informs the browser that it is an HTML document. Text between html tag describes the web document. 
-It is a container for all other elements of HTML except <!DOCTYPE> </html> 
+<html> </html>:- This tag informs the browser that it is an HTML document. Text between html tag describes the web document. 
+It is a container for all other elements of HTML except <!DOCTYPE>  
 
-<head> The <head> HTML element contains machine-readable information (metadata) about the document,
-like its title, scripts, and style sheets. </head>
+<head> </head>:- The <head> HTML element contains machine-readable information (metadata) about the document,
+like its title, scripts, and style sheets. 
 
-
+<body> </body> :-
      
