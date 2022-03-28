@@ -10,5 +10,6 @@ like its title, scripts, and style sheets.
 <meta charset="utf-8"> — This element sets the character set your document should use to UTF-8 which includes most characters from the vast majority of written languages. Essentially, it can now handle any textual content you might put on it.
  There is no reason not to set this and it can help avoid some problems later on.
 
-<body> </body> :-
+<body></body> — the <body> element. This contains all the content that you want to show to web users when they visit your page,
+ whether that's text, images, videos, games, playable audio tracks, or whatever else.
      
