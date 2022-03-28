@@ -20,6 +20,8 @@ like its title, scripts, and style sheets.
 <h2>My top level heading</h2>
 <h3>My subheading</h3>
 <h4>My sub-subheading</h4>
+<h5>...</h5>
+<h6>...</h6>
 Note: You'll see that your heading level 1 has an implicit style. Don't use heading elements to make text bigger or bold, because they are used for accessibility and other reasons such as SEO.
 Try to create a meaningful sequence of headings on your pages, without skipping levels.
 
