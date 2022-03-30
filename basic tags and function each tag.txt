@@ -42,5 +42,6 @@ Links are very important — they are what makes the web a web! To add a link, w
 <a href="post the link location/link in href attribute">html(here html will turn into a link and go to the address used in href attribute)</a>
 You might get unexpected results if you omit the https:// or http:// part, called the protocol, at the beginning of the web address. After making a link, click it to make sure it is sending you where you wanted it to.
 there are two types of links relative and absolute
-relative - it is used to locate of in the project 
+relative - it is used to locate and navigate files in the project folder.
 absolute - can be used as relative as well as when we want a link from outside of our project 
+
