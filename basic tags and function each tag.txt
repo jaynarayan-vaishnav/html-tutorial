@@ -47,3 +47,6 @@ absolute - can be used as relative as well as when we want a link from outside o
 
 <section></section>:-
 this tag divides the function of the html into small parts like (in a program with big code base every function plays part of that codebase)you can link it to the section tag.
+
+<button>:-
+used to create buttons.
