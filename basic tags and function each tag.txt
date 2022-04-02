@@ -45,3 +45,4 @@ there are two types of links relative and absolute
 relative - it is used to locate and navigate files in the project folder.
 absolute - can be used as relative as well as when we want a link from outside of our project 
 
+<section></section>:-
