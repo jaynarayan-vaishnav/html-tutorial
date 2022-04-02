@@ -51,3 +51,6 @@ this tag divides the function of the html into small parts like (in a program wi
 <button>:-
 used to create buttons.
 you can add the type="" 
+
+<label></label>
+used to for placing the info written by the user in a form.
