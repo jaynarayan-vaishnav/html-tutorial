@@ -54,3 +54,4 @@ you can add the type=""
 
 <label></label>
 used to for placing the info written by the user in a form.
+can use placeholder = "" as well as type =""
