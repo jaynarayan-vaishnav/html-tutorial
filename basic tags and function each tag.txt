@@ -46,3 +46,4 @@ relative - it is used to locate and navigate files in the project folder.
 absolute - can be used as relative as well as when we want a link from outside of our project 
 
 <section></section>:-
+this tag divides the function of the html into small parts like (in a program with big code base every function plays part of that codebase)you can link it to the section tag.
