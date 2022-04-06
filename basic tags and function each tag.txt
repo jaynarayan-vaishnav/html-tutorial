@@ -58,3 +58,5 @@ can use placeholder = "" as well as type =""
 
 <legend></legend>
 It gives heading to subsection of the form elements.
+
+finally all basic html elements are completed.
