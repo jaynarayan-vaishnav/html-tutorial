@@ -74,4 +74,8 @@ finally all basic html elements are completed.
   10. you can use the <li> tag to make a list item.
   11. you can use the <section> tag to divide your web page into sections.
   12. you can use the <button> tag to create a button.
+  13. you can use the <label> tag to create a label.
+  14. you can use the <legend> tag to create a legend (where it basically gives heading to the labels).
+  15. you can use the <form> tag to create a form.
+  16. you can use the <input> tag to create an input.
   
