@@ -60,3 +60,18 @@ can use placeholder = "" as well as type =""
 It gives heading to subsection of the form elements.
 
 finally all basic html elements are completed.
+ 
+ best practices:-
+  1. you can use the <!DOCTYPE html> tag to make sure your web pages are valid and render correctly in all major web browsers.
+  2. you can use the <meta charset="utf-8"> tag to make sure your web pages are valid and render correctly in all major web browsers.
+  3. you can use the <title> tag to give your web page a title.
+  4. you can use the <h1> tag to give your web page a heading.
+  5. you can use the <p> tag to give your web page a paragraph.
+  6. you can use the <a> tag to make a link.
+  7. you can use the <img> tag to make an image.
+  8. you can use the <ul> tag to make an unordered list.
+  9. you can use the <ol> tag to make an ordered list.
+  10. you can use the <li> tag to make a list item.
+  11. you can use the <section> tag to divide your web page into sections.
+  12. you can use the <button> tag to create a button.
+  
