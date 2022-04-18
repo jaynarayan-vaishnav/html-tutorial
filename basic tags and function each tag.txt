@@ -78,4 +78,11 @@ finally all basic html elements are completed.
   14. you can use the <legend> tag to create a legend (where it basically gives heading to the labels).
   15. you can use the <form> tag to create a form.
   16. you can use the <input> tag to create an input.
-  
+  17. you can use the <select> tag to create a select.
+  18. you can use the <option> tag to create an option.
+  19. you can use the <textarea> tag to create a textarea.
+  20. you can use the <style> tag to create a style.
+  21. you can use the <script> tag to create a script.
+  22. you can use the <a> tag to create a link in between of the <p> element.
+  23. you can use the <img> tag to create an image in between of the <p> element.
+  24. you can use the <a> tag to make an image into a link in the <img> element.
